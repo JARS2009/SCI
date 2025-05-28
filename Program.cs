@@ -298,6 +298,8 @@ namespace SCI
                     break;
                 case 2:
                     switch (salon)
+
+
                     {
                         case 1: humo21 = valor; break;
                         case 2: humo22 = valor; break;
